@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Local database dumps and env files
+*.sqlite
+*.db
+.env
