@@ -1,6 +1,6 @@
 # Amazon-Style E-Commerce Database
 
-A relational database for an online marketplace modeled on Amazon: customers, multi-seller product listings, orders, payments, shipments, warehouses, inventory and reviews. Built in MySQL as a university database course project (Spring 2026, Group 026).
+A relational database for an online marketplace modeled on Amazon: customers, multi-seller product listings, orders, payments, shipments, warehouses, inventory and reviews. Built in MySQL as a university database course project.
 
 > Educational project. It is modeled on the general structure of large online marketplaces and is not affiliated with Amazon.
 
@@ -171,6 +171,6 @@ The data is hand-written and deliberately small (10-18 rows per table) so every 
 
 ## Team
 
-Group project by **Parinaz Ghasemi, Sara Kiyanmehr and Mohammad Mahdi Sadeghi** (Group 026).
+Group project by **Parinaz Ghasemi, Sara Kiyanmehr and Mohammad Mahdi Sadeghi**.
 
 **My contribution:** I defined the entities and their relationships (`docs/Entities.pdf`) and worked out the primary, candidate, super and foreign keys (`docs/Keys_and_Relations.pdf`). I also helped build the ER diagram and write the SQL code.
